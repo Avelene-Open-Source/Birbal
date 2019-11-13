@@ -1,18 +1,10 @@
-# This files contains your custom actions which can be used to run
-# custom Python code.
-#
-# See this guide on how to implement these action:
-# https://rasa.com/docs/rasa/core/actions/#custom-actions/
+from textblob import TextBlob
+from typing import Any, Text, Dict, List
+from rasa_sdk import Action, Tracker
+from rasa_sdk.events import SlotSet, FollowupAction, AllSlotsReset
+from rasa_sdk.executor import CollectingDispatcher
 
 
-# This is a simple example for a custom action which utters "Hello World!"
-
-# from typing import Any, Text, Dict, List
-#
-# from rasa_sdk import Action, Tracker
-# from rasa_sdk.executor import CollectingDispatcher
-#
-#
 # class ActionHelloWorld(Action):
 #
 #     def name(self) -> Text:
@@ -25,3 +17,14 @@
 #         dispatcher.utter_message("Hello World!")
 #
 #         return []
+
+class ActionCheckLinguality(Action):
+
+    def name(self) -> Text:
+        return 'action_check_user_language'
+
+    def run(self, dispatcher, tracker: Tracker, domain: Dict[Text, Any]):
+        user_msg = tracker.latest_message.text
+        language = TextBlob(user_msg)
+        language = language.detect_language()
+        return SlotSet('language', language)
