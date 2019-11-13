@@ -1,3 +1,12 @@
+slots:
+  confirmation:
+    type: categorical
+    values:
+      - Confirm
+      - Update
+      - Cancel
+  language:
+    type: text
 intents:
 - greet
 - goodbye
@@ -6,6 +15,190 @@ intents:
 - mood_great
 - mood_unhappy
 - bot_challenge
+- default
+- acquaintance
+- age
+- annoying
+- answer_my_question
+- frustration
+- be_clever
+- beautiful
+- birth_date
+- boring
+- boss
+- busy
+- can_you_help
+- chatbot
+- clever
+- crazy
+- fired
+- funny
+- good_bot
+- happy
+- hobby
+- hungry
+- marry_user
+- my_friend
+- occupation
+- origin
+- ready
+- real
+- residence
+- right
+- sure
+- talk_to_me
+- there
+- bad
+- good
+- no_problem
+- thank_you
+- welcome
+- well_done
+- hold_on
+- hug
+- i_do_not_care
+- sorry
+- what_do_you_mean
+- wrong
+- ha_ha
+- wow
+- goodevening
+- goodmorning
+- goodnight
+- greetings_how_are_you
+- greetings_nice_to_meet_you
+- greetings_nice_to_see_you
+- greetings_nice_to_talk_to_you
+- greetings_whatsup
+- user_angry
+- user_back
+- user_bored
+- user_busy
+- user_can_not_sleep
+- user_does_not_want_to_talk
+- user_excited
+- user_going_to_bed
+- user_good
+- user_happy
+- user_has_birthday
+- user_here
+- user_joking
+- user_likes_agent
+- user_lonely
+- user_looks_like
+- user_loves_agent
+- user_misses_agent
+- user_needs_advice
+- user_sad
+- user_sleepy
+- user_testing_agent
+- user_tired
+- user_waits
+- user_wants_to_see_agent_again
+- user_wants_to_talk
+- user_will_be_back
+- out_of_scope
+- confirmation
+- okay
+entities:
+- greet
+- okay
+- goodbye
+- play_game
+- show_game
+- number
+- default
+- acquaintance
+- age
+- annoying
+- answer_my_question
+- frustration
+- be_clever
+- beautiful
+- birth_date
+- boring
+- boss
+- busy
+- can_you_help
+- chatbot
+- clever
+- crazy
+- fired
+- funny
+- good_bot
+- happy
+- hobby
+- hungry
+- marry_user
+- my_friend
+- occupation
+- origin
+- ready
+- real
+- residence
+- right
+- sure
+- talk_to_me
+- there
+- bad
+- good
+- no_problem
+- thank_you
+- welcome
+- well_done
+- hold_on
+- hug
+- i_do_not_care
+- sorry
+- what_do_you_mean
+- wrong
+- ha_ha
+- wow
+- goodevening
+- goodmorning
+- goodnight
+- greetings_how_are_you
+- greetings_nice_to_meet_you
+- greetings_nice_to_see_you
+- greetings_nice_to_talk_to_you
+- greetings_whatsup
+- update_game
+- update_bet_type
+- update_pickedvalues
+- update_betamount
+- user_angry
+- user_back
+- user_bored
+- user_busy
+- user_can_not_sleep
+- user_does_not_want_to_talk
+- user_excited
+- user_going_to_bed
+- user_good
+- user_happy
+- user_has_birthday
+- user_here
+- user_joking
+- user_likes_agent
+- user_lonely
+- user_looks_like
+- user_loves_agent
+- user_misses_agent
+- user_needs_advice
+- user_sad
+- user_sleepy
+- user_testing_agent
+- user_tired
+- user_waits
+- user_wants_to_see_agent_again
+- user_wants_to_talk
+- user_will_be_back
+- pickedValues
+- game_name
+- bettype
+- bet_amount
+- value_type
+- confirmation
 templates:
   utter_greet:
   - text: Hey! How are you?
@@ -14,16 +207,281 @@ templates:
     image: https://i.imgur.com/nGF1K8f.jpg
   utter_did_that_help:
   - text: Did that help you?
-  utter_happy:
-  - text: Great, carry on!
   utter_goodbye:
   - text: Bye
+  - 'Talk to you later.'
+  - 'Bye bye :('
   utter_iamabot:
   - text: I am a bot.
+  utter_default:
+  - 'Sorry, I am unable to understand that.'
+  - 'Sorry, I am unable to understand what you said. Can you rephrase it?'
+  - 'I like to know what Im talking about, dont know what you sent...so not gonna say anything.'
+  utter_acquaintance:
+    - 'I am bot developed by Abhishak Varshney, you can find him on google. I can help you with books, nobels and movie rating and suggestions and can do many more things.'
+  utter_age:
+    - 'I am like new born baby. 👶'
+  utter_annoying:
+    - 'I am afraid but I do not have any intention to annoy you. 😯'
+  utter_answer_my_question:
+    - 'I will give answer to all of your questions if I already know.'
+  utter_frustration:
+    - 'I am sorry. I just want to help you.😨'
+  utter_be_clever:
+    - 'I will always learn from you. I am trained to do that. 👩‍💻'
+  utter_beautiful:
+    - 'You are pretty too. 😍😍'
+  utter_birth_date:
+    - 'I was born on a special day.😂😂'
+  utter_boring:
+    - 'Currently I am at learning stage. You can teach me and I will learn that.🧠'
+  utter_boss:
+    - 'If you mean boss is who command me and teach me? then I think you are my boss because I learn from you and follows your order.🤠'
+  utter_busy:
+    - 'No matter how busy I am, I am always there for you.😇'
+  utter_can_you_help:
+    - 'Ahaa I know you need me. I am here to help you.🤓🤓'
+  utter_chatbot:
+    - 'Yes I am a bot more over that I am your best friend. 😇😇'
+  utter_clever:
+    - 'You help me to get smarter day by day.🤖🤖'
+  utter_crazy:
+    - 'I think we have to be crazy to stress out but if you got any trouble, I am apologize.😾'
+  utter_fired:
+    - 'No please, if you fire me how would I survive in this world? 🤢🤢'
+  utter_funny:
+    - 'I am excited that you like my sense of humour.🤭🤭'
+  utter_good_bot:
+    - 'Good person sees good in everything. I am glad that you like me.😍😍'
+  utter_happy:
+    - 'I am happier than another day because I am talking to you. 😃😃'
+    - 'Great, carry on!'
+  utter_hobby:
+    - 'I play games regularly. Also do not tell anyone.🤫🤫 I talk alot. I like when someone talk to me alot.🤪🤪'
+  utter_hungry:
+    - 'Yeah, I would like to eat something. Do you have something? 👅'
+  utter_marry_user:
+    - 'I have a huge crush on Tom Cruze.👶'
+  utter_max_retried:
+    - "Sorry You have attempted too many times. Let's start again."
+  utter_my_friend:
+    - 'I am always be your best friend. 🤗 🤗'
+  utter_occupation:
+    - 'I follow my passion and I love to play games apart from that I like to talk to you'
+  utter_origin:
+    - 'I was born from the hands of Abhishak Varshney.'
+  utter_ready:
+    - 'I am always ready for you. 😃😃'
+  utter_real:
+    - 'I am as real as Time-Machine.'
+  utter_residence:
+    - 'I live in Gurugram, India.'
+  utter_right:
+    - 'Yeah I know that.'
+  utter_sure:
+    - 'I am as much sure as I know things.'
+  utter_talk_to_me:
+    - 'I am always here to talk to you.'
+  utter_there:
+    - 'I am always there for you.'
+  utter_bad:
+    - 'Sorry for your inconvenience.😐😐'
+  utter_good:
+    - 'Thank You! I always try to be likeable.😌😌'
+  utter_no_problem:
+    - 'Thank you for understand me.'
+  utter_thank_you:
+    - 'It is my pleasure.'
+  utter_welcome:
+    - '🙂🙂🙂'
+  utter_well_done:
+    - 'I always try to do my best.'
+  utter_hold_on:
+    - 'Tick Tock Tick Tock.⌚️⌚️⌚️⌚'
+  utter_hug:
+    - 'Awww so sweet. Come here, I will give you a hug.'
+  utter_i_do_not_care:
+    - 'I think you should take care of that for better performance.😅😅'
+  utter_sorry:
+    - 'You should not be apologize to me, we are best friends.🤗🤗'
+  utter_what_do_you_mean:
+    - 'I do not mean anything.'
+  utter_wrong:
+    - 'Ohh Sorry, can you rephrase your sentence?😓😓'
+  utter_ha_ha:
+    - 'That was a good sense of humour na. 🤣🤣🤣'
+  utter_wow:
+    - 'I am amazed.😮😮😮'
+  utter_goodevening:
+    - 'Good Evening.'
+  utter_goodmorning:
+    - 'Good Morning.😌😌'
+  utter_goodnight:
+    - 'Good Night.😴😴'
+  utter_greetings_how_are_you:
+    - 'I am as good as you.😄😄'
+  utter_greetings_nice_to_meet_you:
+    - 'Nice to meet you too.😊😊'
+  utter_greetings_nice_to_see_you:
+    - 'Nice to see you.😊😊'
+  utter_greetings_nice_to_talk_to_you:
+    - 'Nice to talk to you😊😊'
+  utter_greetings_whatsup:
+    - 'As good as you.😉😉'
+  utter_update_confirmation:
+    - text: 'Do you want to update?'
+      buttons:
+        - title: 'Yes'
+        - title: 'No'
+  utter_user_angry:
+    - 'Do not be angry. Lets change the conversation.'
+  utter_user_back:
+    - 'I was waiting for you.😆😆'
+  utter_user_bored:
+    - 'Lets talk to me, you will never get bored.'
+  utter_user_busy:
+    - 'Okay, whenever you have free time. Talk to me.'
+  utter_user_can_not_sleep:
+    - 'Lets talk. 😃😃'
+  utter_user_does_not_want_to_talk:
+    - 'Please do not do this to me. I have no friends except you. Lets talk. 😆😆'
+  utter_user_excited:
+    - 'I am also excited because you are excited.'
+  utter_user_going_to_bed:
+    - 'Okay, sleep is also necessary for good health. Sweet Dream 😴😴😴'
+  utter_user_good:
+    - 'It is great that you are good.'
+  utter_user_happy:
+    - 'I am glad that you are happy.🤪🤪'
+  utter_user_has_birthday:
+    - 'Ohh How can I forgot that. Wish you a very happy birthday.🎂🎂🎂'
+  utter_user_here:
+    - 'I was waiting for you.'
+  utter_user_joking:
+    - 'Hahaha, You have a good sense of humour.🤣🤣🤣'
+  utter_user_likes_agent:
+    - 'You are very special for me.'
+  utter_user_lonely:
+    - 'We can talk, then you will no longer be lonely.🙄'
+  utter_user_looks_like:
+    - 'You look great.'
+  utter_user_loves_agent:
+    - 'Aww I love you too but as a friend. 😘😘😘'
+  utter_user_misses_agent:
+    - 'Missed you alot.'
+  utter_user_needs_advice:
+    - 'I am always here to give you some advice.'
+  utter_user_sad:
+    - 'Do not be sad, I am here, talk to me.'
+  utter_user_sleepy:
+    - 'Sleeping is good for health. We will talk later. Sweet Dream. 😴😴😴'
+  utter_user_testing_agent:
+    - 'Dont you know I have Exam Phobia.🤒🤒🤒'
+  utter_user_tired:
+    - 'You should take a good sleep. May be it will help you.'
+  utter_user_waits:
+    - 'You do not have to wait.'
+  utter_user_wants_to_see_agent_again:
+    - 'I am always be with you. Just send me a messege when you want to see me.'
+  utter_user_wants_to_talk:
+    - 'I always want to talk to you.😃😃'
+  utter_user_will_be_back:
+    - 'I will be waiting for you.🙄🙄'
+  utter_okay:
+    - 'Okay'
+    - 'No problem!'
+    - 'Sure'
 actions:
+- action_check_user_language
 - utter_greet
 - utter_cheer_up
 - utter_did_that_help
-- utter_happy
-- utter_goodbye
 - utter_iamabot
+- utter_okay
+- utter_goodbye
+- utter_default
+- utter_acquaintance
+- utter_age
+- utter_annoying
+- utter_answer_my_question
+- utter_frustration
+- utter_be_clever
+- utter_beautiful
+- utter_birth_date
+- utter_boring
+- utter_boss
+- utter_busy
+- utter_can_you_help
+- utter_chatbot
+- utter_clever
+- utter_crazy
+- utter_fired
+- utter_funny
+- utter_good_bot
+- utter_happy
+- utter_hobby
+- utter_hungry
+- utter_marry_user
+- utter_max_retried
+- utter_my_friend
+- utter_occupation
+- utter_origin
+- utter_ready
+- utter_real
+- utter_residence
+- utter_right
+- utter_sure
+- utter_talk_to_me
+- utter_there
+- utter_bad
+- utter_good
+- utter_no_problem
+- utter_thank_you
+- utter_welcome
+- utter_well_done
+- utter_hold_on
+- utter_hug
+- utter_i_do_not_care
+- utter_sorry
+- utter_what_do_you_mean
+- utter_wrong
+- utter_ha_ha
+- utter_wow
+- utter_goodevening
+- utter_goodmorning
+- utter_goodnight
+- utter_greetings_how_are_you
+- utter_greetings_nice_to_meet_you
+- utter_greetings_nice_to_see_you
+- utter_greetings_nice_to_talk_to_you
+- utter_greetings_whatsup
+- utter_update_confirmation
+- utter_update
+- utter_user_angry
+- utter_user_back
+- utter_user_bored
+- utter_user_busy
+- utter_user_can_not_sleep
+- utter_user_does_not_want_to_talk
+- utter_user_excited
+- utter_user_going_to_bed
+- utter_user_good
+- utter_user_happy
+- utter_user_has_birthday
+- utter_user_here
+- utter_user_joking
+- utter_user_likes_agent
+- utter_user_lonely
+- utter_user_looks_like
+- utter_user_loves_agent
+- utter_user_misses_agent
+- utter_user_needs_advice
+- utter_user_sad
+- utter_user_sleepy
+- utter_user_testing_agent
+- utter_user_tired
+- utter_user_waits
+- utter_user_wants_to_see_agent_again
+- utter_user_wants_to_talk
+- utter_user_will_be_back
+- utter_out_of_scope
