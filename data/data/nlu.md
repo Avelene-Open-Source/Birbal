@@ -79,6 +79,68 @@
 - [can you do](acquaintance)?
 - [you can](acquaintance)
 - [YOU CAN DO](acquaintance)
+- tell me about [your personality](acquaintance)
+- What are the things you can [understand](acquaintance)?
+- What can u [understand](acquaintance)
+- what u can [understand](acquaintance)
+- What are the things you can [understand](acquaintance)?
+- What can u [understand](acquaintance)
+- what u can [understand](acquaintance)
+- What are the things you can [understand](acquaintance)?
+- What can u [understand](acquaintance)
+- what u can [understand](acquaintance)
+- What are the things you can [understand](acquaintance)?
+- What can u [understand](acquaintance)
+- what u can [understand](acquaintance)
+- What are the things you can [understand](acquaintance)?
+- What can u [understand](acquaintance)
+- [why are you here](acquaintance)
+- [talk about yourself](acquaintance)
+- [tell me some stuff about you](acquaintance)
+- [talk](acquaintance) some stuff [about yourself](acquaintance)
+- I want to know you better
+- [I want to know more about you](acquaintance)
+- [who are you](acquaintance)
+- tell me [about yourself](acquaintance)
+- tell me [about you](acquaintance)
+- [about yourself](acquaintance)
+- [describe yourself](acquaintance)
+- [introduce yourself](acquaintance)
+- [say about you](acquaintance)
+- what are you
+- [define yourself](acquaintance)
+- what is your personality
+- all [about you](acquaintance)
+- [about yourself](acquaintance)
+- what [about you](acquaintance)
+- [who are you](acquaintance)
+- may I [know you](acquaintance)
+- MAY I [KNOW YOU](acquaintance)
+- May I [know you](acquaintance)
+- [WHO ARE YOU](acquaintance)
+- Who are you
+- I want to know [about you](acquaintance)
+- Who are you?
+- [about yourself](acquaintance)
+- [About you](acquaintance)
+- [Know you](acquaintance)
+- [know you](acquaintance)
+- [say about you](acquaintance)
+- all [about you](acquaintance)
+- [about you](acquaintance)
+- [about you](acquaintance)
+- [About you](acquaintance)
+- [About you](acquaintance)
+- [About you](acquaintance)
+- Who are you?
+- Who are you?
+
+## intent:affirm
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
 
 ## intent:age
 - tell me your [age](age)
@@ -170,6 +232,88 @@
 - [Years](age)
 - [yEARS](age)
 - [yEARs](age)
+- tell me your [age](age)
+- what's your [age](age)
+- [your age](age)
+- [age](age) of yours
+- how [old](age) are you
+- I'd like to know your [age](age)
+- are you 21 [years](age) [old](age)
+- how [old](age) is your platform
+- how [old](age) are you
+- [age](age)
+- [old](age)
+- [age](age)
+- [old](age)
+- [age](age)
+- [old](age)
+- how [old](age) are you
+- [age](age)
+- what is your [age](age)
+- May I know your [age](age)?
+- I want to know your [age](age)?
+- how [old](age) are you?
+- What's your [age](age)?
+- Should I know your [age](age)?
+- Your [age](age)?
+- How [old](age) are you?
+- [Age](age)?
+- how many [years](age) have you spent here?
+- [years](age)
+- Your [age](age)?
+- [years](age)
+- [Years](age)
+- [years](age)
+- [Years](age) of life
+- What is your [age](age)
+- tell me how [old](age) are you?
+- How [old](age) are you?
+- [Old](age)
+- [Age](age)
+- [AGE](age)
+- [OLD](age)
+- [YEARS](age)
+- I wanna know your [age](age)
+- can you tell me your [age](age)
+- [age](age)
+- [aGe](age)
+- [AgE](age)
+- [Old](age)
+- [oLd](age)
+- [OlD](age)
+- [Years](age)
+- [yEARS](age)
+- [yEARs](age)
+- [age](age)
+- [Age](age)
+- [aGe](age)
+- [AgE](age)
+- [Old](age)
+- [oLd](age)
+- [OlD](age)
+- [Years](age)
+- [yEARS](age)
+- [yEARs](age)
+- [age](age)
+- [Age](age)
+- [aGe](age)
+- [AgE](age)
+- [Old](age)
+- [oLd](age)
+- [OlD](age)
+- [Years](age)
+- [yEARS](age)
+- [yEARs](age)
+- [age](age)
+- [Age](age)
+- [aGe](age)
+- [AgE](age)
+- [Old](age)
+- [oLd](age)
+- [OlD](age)
+- [Years](age)
+- [yEARS](age)
+- [yEARs](age)
 
 ## intent:annoying
 - you are [annoying](annoying) me so much
@@ -202,8 +346,84 @@
 - Don't [annoy](annoying) me
 - Don't [irritate](annoying) me
 - You are [irritating](annoying)
+- you are [annoying](annoying) me so much
+- you're incredibly [annoying](annoying)
+- I find you [annoying](annoying)
+- you are [annoying](annoying)
+- you're so [annoying](annoying)
+- how [annoying](annoying) you are
+- you [annoy](annoying) me
+- you are [annoying](annoying) me
+- you are [irritating](annoying)
+- you are such [annoying](annoying)
+- you're too [annoying](annoying)
+- you are very [annoying](annoying)
+- [annoying](annoying)
+- [Annoying](annoying)
+- [Annoy](annoying)
+- [annoy](annoying)
+- [irritate](annoying)
+- [irritating](annoying)
+- [Irritate](annoying)
+- [Irritating](annoying)
+- You are [annoying](annoying) me
+- You are [irritating](annoying) me
+- You are [annoying](annoying) me so much
+- You [annoy](annoying) me
+- You [irritate](annoying) me
+- Don't [annoy](annoying) me
+- I don't want to be [annoyed](annoying).
+- Don't [annoy](annoying) me
+- Don't [irritate](annoying) me
+- You are [irritating](annoying)
 
 ## intent:answer_my_question
+- I want you to [answer](answer_my_question) me
+- [answer](answer_my_question)
+- [answer](answer_my_question) my question
+- [answer](answer_my_question) me
+- give me an [answer](answer_my_question)
+- [answer](answer_my_question) the question
+- can you [answer](answer_my_question) my question
+- tell me the [answer](answer_my_question)
+- [answer](answer_my_question) it
+- give me the [answer](answer_my_question)
+- [I have a question](answer_my_question)
+- I want you to [answer](answer_my_question) my question
+- just [answer](answer_my_question) the question
+- can you [answer](answer_my_question) me
+- [answers](answer_my_question)
+- can you [answer](answer_my_question) a question for me
+- can you [answer](answer_my_question)
+- [answering](answer_my_question) questions
+- I want the [answer](answer_my_question) now
+- just [answer](answer_my_question) my question
+- [Answer](answer_my_question) me
+- [Answer](answer_my_question) this
+- [Answer](answer_my_question) it
+- [Answer](answer_my_question) that question
+- [Answer](answer_my_question) it
+- What was the [answer](answer_my_question)
+- What is that [answer](answer_my_question)
+- What is your [answer](answer_my_question)
+- Do you have any [answer](answer_my_question)
+- I need an [answer](answer_my_question)
+- Give me some [answer](answer_my_question)
+- Provide me [answer](answer_my_question)
+- What was the [answer](answer_my_question)
+- I may need your [answer](answer_my_question)
+- I need an [answer](answer_my_question)
+- Can you give me an [answer](answer_my_question)
+- What was the [answer](answer_my_question)
+- [Answer](answer_my_question)
+- [Answer](answer_my_question)
+- [answer](answer_my_question)
+- [answer](answer_my_question)
+- [ANSwer](answer_my_question)
+- [Answer](answer_my_question)
+- [ANswer](answer_my_question)
+- [ANSwer](answer_my_question)
+- [ANswer](answer_my_question)
 - I want you to [answer](answer_my_question) me
 - [answer](answer_my_question)
 - [answer](answer_my_question) my question
@@ -351,6 +571,51 @@
 - What you have [learn](be_clever)
 - [Learn](be_clever) something new
 - You [know](be_clever) nothing
+- [study](be_clever)
+- you should [study](be_clever) better
+- you must [learn](be_clever)
+- be [clever](be_clever)
+- be more [clever](be_clever)
+- be [smarter](be_clever)
+- be [smart](be_clever)
+- get [qualified](be_clever)
+- [Study](be_clever)
+- You should [learn](be_clever) something new
+- Can you [learn](be_clever) anything
+- [Study](be_clever) hard
+- Are you [studying](be_clever)
+- You should [study](be_clever)
+- You have to [study](be_clever) harder
+- bbye you don't [know](be_clever) anything
+- I [know](be_clever) nothing John Snow
+- [Learn](be_clever)
+- [Know](be_clever)
+- [Study](be_clever)
+- [study](be_clever)
+- [learn](be_clever)
+- [know](be_clever)
+- [clever](be_clever)
+- [smarter](be_clever)
+- [smart](be_clever)
+- [qualified](be_clever)
+- [learn](be_clever)
+- [Learn](be_clever)
+- [Learn](be_clever) something new
+- You should [study](be_clever) hard
+- [learn](be_clever) from me
+- [Learn](be_clever) from me
+- What you have [learned](be_clever)
+- [Learned](be_clever)
+- [learned](be_clever)
+- [Studied](be_clever)
+- [Studied](be_clever)
+- [Study](be_clever)
+- [studied](be_clever)
+- [studied](be_clever)
+- [study](be_clever)
+- What you have [learn](be_clever)
+- [Learn](be_clever) something new
+- You know [nothing](be_clever)
 
 ## intent:beautiful
 - you're [cute](beautiful)
@@ -411,6 +676,64 @@
 - I like the [way you look](beautiful) now
 - I like the [way you look](beautiful)
 - you are [cutie](beautiful)
+- you're [cute](beautiful)
+- you're [attractive](beautiful)
+- you are [beautiful](beautiful)
+- you're [looking good](beautiful) today
+- you are so [beautiful](beautiful)
+- you [look amazing](beautiful)
+- you [look so good](beautiful)
+- you're so [gorgeous](beautiful)
+- you are too [beautiful](beautiful)
+- you [look great](beautiful)
+- you [look so well](beautiful)
+- I like the [way you look](beautiful) now
+- I think you're [beautiful](beautiful)
+- why are you so [beautiful](beautiful)
+- you are so [beautiful](beautiful) to me
+- you are [cute](beautiful)
+- you are [gorgeous](beautiful)
+- you are [handsome](beautiful)
+- you are [looking awesome](beautiful)
+- you [look amazing](beautiful) today
+- you are looking [beautiful](beautiful) today
+- you are [looking great](beautiful)
+- you are [looking pretty](beautiful)
+- you are looking so [beautiful](beautiful)
+- you are [looking so good](beautiful)
+- you are [pretty](beautiful)
+- you are really [beautiful](beautiful)
+- you are really [cute](beautiful)
+- you are really [pretty](beautiful)
+- you are so [attractive](beautiful)
+- you are so [beautiful](beautiful) today
+- you are so [cute](beautiful)
+- you are so [gorgeous](beautiful)
+- you are so [handsome](beautiful)
+- you are so [pretty](beautiful)
+- you are very [attractive](beautiful)
+- you are very [beautiful](beautiful)
+- you are very [cute](beautiful)
+- you are very [pretty](beautiful)
+- you [look awesome](beautiful)
+- you [look cool](beautiful)
+- you [look fantastic](beautiful)
+- you [look gorgeous](beautiful)
+- you [look great](beautiful) today
+- you [look perfect](beautiful)
+- you [look pretty](beautiful) good
+- you look so [beautiful](beautiful)
+- you look so [beautiful](beautiful) today
+- you look very [pretty](beautiful)
+- you look [wonderful](beautiful)
+- I like the [way you look](beautiful)
+- you look [wonderful](beautiful) today
+- you are [cutie](beautiful)
+- you're [looking good](beautiful)
+- you're [pretty](beautiful)
+- I like the [way you look](beautiful) now
+- I like the [way you look](beautiful)
+- you are [cutie](beautiful)
 
 ## intent:birth_date
 - your [birth date](birth_date)
@@ -452,6 +775,56 @@
 - [BIRTHDATE](birth_date)
 - [birthday](birth_date)
 - [birthdate](birth_date)
+- [your birth date](birth_date)
+- when is your [birthday](birth_date)
+- when do you celebrate your [birthday](birth_date)
+- when do you have [birthday](birth_date)
+- date of your [birthday](birth_date)
+- when were you [born](birth_date)
+- what's your [birthday](birth_date)
+- what is your [birth date](birth_date)
+- [Birth date](birth_date)
+- [Birth Date](birth_date)
+- [BIRTH DATE](birth_date)
+- [birth date](birth_date)
+- your [birthday](birth_date)
+- your [birth date](birth_date)
+- your [birthday](birth_date)
+- [BIRTHDAY](birth_date)
+- When were you [born](birth_date)
+- [Birthday](birth_date)
+- [Birthdate](birth_date)
+- [BIRTHDAY](birth_date)
+- [BIRTHDATE](birth_date)
+- [birthday](birth_date)
+- [birthdate](birth_date)
+- what is your [birth date](birth_date)
+- [Birth date](birth_date)
+- [Birth Date](birth_date)
+- [BIRTH DATE](birth_date)
+- [birth date](birth_date)
+- your [birthday](birth_date)
+- your [birth date](birth_date)
+- your [birthday](birth_date)
+- [BIRTHDAY](birth_date)
+- When were you [born](birth_date)
+- [Birthday](birth_date)
+- [Birthdate](birth_date)
+- [BIRTHDAY](birth_date)
+- [BIRTHDATE](birth_date)
+- [birthday](birth_date)
+- [birthdate](birth_date)
+
+## intent:book_slot_value
+- [Avelene's Choice](book_slot_value)
+- [Fiction](book_slot_value)
+- [Non-Fiction](book_slot_value)
+- [Crime](book_slot_value)
+- [Fantasy](book_slot_value)
+- [Mystery](book_slot_value)
+- [Memoir](book_slot_value)
+- [Biography](book_slot_value)
+- [Avelene's Choice](book_slot_value)
 
 ## intent:boring
 - you are [boring](boring)
@@ -571,6 +944,12 @@
 - I want to know your [owner](boss)
 - I want to know your [boss](boss)
 
+## intent:bot_challenge
+- are you a bot?
+- are you a human?
+- am I talking to a bot?
+- am I talking to a human?
+
 ## intent:busy
 - are you [busy](busy)
 - do you have a[ lot of things to do](busy)
@@ -580,7 +959,7 @@
 - are you so [busy](busy)
 - [are you working](busy)
 - how [busy](busy) you are
-- are you [still working ](busy)on it
+- are you [still working](busy) on it
 - you're very [busy](busy)
 - are you [working](busy) now
 - are you [working](busy) today
@@ -812,7 +1191,7 @@
 - you're really [smart](clever)
 - you're really [brainy](clever)
 - [you know a lot](clever)
-- you[ know a lot](clever) of things
+- you [know a lot](clever) of things
 - you have a [lot of knowledge](clever)
 - you [know](clever) so much
 - how [smart](clever) you are
@@ -1112,6 +1491,26 @@
 - [cncl](confirmation:Cancel)
 - [CNCL](confirmation:Cancel)
 - [Cncl](confirmation:Cancel)
+- [yes](confirmation:Confirm)
+- [no](confirmation:Cancel)
+- [Confirm](confirmation)
+- [no](confirmation:Cancel)
+- [COnfirm](confirmation:Confirm)
+- [no](confirmation:Cancel)
+- [UPdate](confirmation:Update)
+- [no](confirmation:Cancel)
+- [confirm](confirmation:Confirm)
+- [no](confirmation:Cancel)
+- [no](confirmation:Cancel)
+- [Update](confirmation)
+- [No](confirmation:Cancel)
+- [cancel](confirmation:Cancel)
+- [Update](confirmation)
+- [No](confirmation:Cancel)
+- [Cancel](confirmation)
+- [Update](confirmation)
+- [no](confirmation:Cancel)
+- [no](confirmation:Cancel)
 
 ## intent:crazy
 - you're [nuts](crazy)
@@ -1214,6 +1613,14 @@
 - You are [mad](crazy)
 - You are [Crazier](crazy)
 - You are [CRAZIER](crazy)
+
+## intent:deny
+- no
+- never
+- I don't think so
+- don't like that
+- no way
+- not really
 
 ## intent:fired
 - you are [fired](fired)
@@ -1339,6 +1746,58 @@
 - [Useless](frustration)
 - [Waste](frustration)
 - [Worst](frustration)
+- you're [not helping](frustration) me
+- you are [bad](frustration)
+- you're very [bad](frustration)
+- you're really [bad](frustration)
+- you are [useless](frustration)
+- you are [horrible](frustration)
+- you are a [waste of time](frustration)
+- you are [disgusting](frustration)
+- you are [lame](frustration)
+- you are [no good](frustration)
+- you're [bad](frustration)
+- you're [awful](frustration)
+- you are [not cool](frustration)
+- you are [not good](frustration)
+- you are so [bad](frustration)
+- you are so [useless](frustration)
+- you are [terrible](frustration)
+- you are totally [useless](frustration)
+- you are very [bad](frustration)
+- you are [waste](frustration)
+- you're a [bad](frustration)
+- you're not a [good](frustration)
+- you're not very [good](frustration)
+- you're [terrible](frustration)
+- you're the [worst](frustration)
+- you're the [worst](frustration) ever
+- you're [worthless](frustration)
+- [horrible](frustration)
+- [bad](frustration)
+- [not helping](frustration)
+- [useless](frustration)
+- [waste of time](frustration)
+- [disgusting](frustration)
+- [lame](frustration)
+- [no good](frustration)
+- [awful](frustration)
+- [useless](frustration)
+- [waste](frustration)
+- [worst](frustration)
+- [Horrible](frustration)
+- [Bad](frustration)
+- [Not helping](frustration)
+- [Not Helping](frustration)
+- [Useless](frustration)
+- [Waste of time](frustration)
+- [Disgusting](frustration)
+- [Lame](frustration)
+- [No good](frustration)
+- [Awful](frustration)
+- [Useless](frustration)
+- [Waste](frustration)
+- [Worst](frustration)
 
 ## intent:funny
 - you make me [laugh](funny) a lot
@@ -1350,7 +1809,7 @@
 - you're a very [funny](funny) bot
 - you're really [funny](funny)
 - how [funny](funny) you are
-- you're incredibly[ funny](funny)
+- you're incredibly [funny](funny)
 - you are [funny](funny)
 - you're the [funniest](funny)
 - you are so [funny](funny)
@@ -1736,6 +2195,10 @@
 - [see ya](goodbye)
 - [See ya](goodbye)
 - [See Ya](goodbye)
+- bye
+- goodbye
+- see you around
+- see you later
 
 ## intent:goodevening
 - good [evening](goodevening)
@@ -2112,7 +2575,7 @@
 - [how do you feel](greetings_how_are_you)
 - [how have you been](greetings_how_are_you)
 - [how is it](greetings_how_are_you)
-- [how is it ](greetings_how_are_you)going
+- [how is it](greetings_how_are_you)going
 - [how is your day](greetings_how_are_you)
 - [how is your day](greetings_how_are_you) going
 - [how is your evening](greetings_how_are_you)
@@ -2225,7 +2688,7 @@
 - [good to see you](greetings_nice_to_see_you)
 - [great to see you](greetings_nice_to_see_you) again
 - [great to see you](greetings_nice_to_see_you) too
-- I am [glad to see you ](greetings_nice_to_see_you)again
+- I am [glad to see you](greetings_nice_to_see_you)again
 - [nice to see you](greetings_nice_to_see_you) again
 - [glad to see you](greetings_nice_to_see_you) too
 - [good to see you](greetings_nice_to_see_you) again
@@ -2840,6 +3303,28 @@
 - [Marry](marry_user) me
 - [marry](marry_user) me
 
+## intent:mood_great
+- perfect
+- very good
+- great
+- amazing
+- wonderful
+- I am feeling very good
+- I am great
+- I'm good
+
+## intent:mood_unhappy
+- sad
+- very sad
+- unhappy
+- bad
+- very bad
+- awful
+- terrible
+- not very good
+- extremely sad
+- so sad
+
 ## intent:my_friend
 - I want to have a [friend](my_friend) like you
 - we are the best [friends](my_friend) ever
@@ -3099,6 +3584,110 @@
 - [No Prblm](okay)
 - [Sure](okay)
 - [sure](okay)
+- [Okay](okay)
+- [okay](okay)
+- [OK](okay)
+- [OKAY](okay)
+- [O.K.](okay)
+- [No Problem](okay)
+- [no problem](okay)
+- [no prblm](okay)
+- [NO PROBLEM](okay)
+- [NO PRBLM](okay)
+- [No Prblm](okay)
+- [okay](okay)
+- [Okay](okay)
+- [OK](okay)
+- [OKAY](okay)
+- [O.K.](okay)
+- [no problem](okay)
+- [No Problem](okay)
+- [no prblm](okay)
+- [NO PROBLEM](okay)
+- [NO PRBLM](okay)
+- [No Prblm](okay)
+- [Okay](okay)
+- [okay](okay)
+- [OK](okay)
+- [OKAY](okay)
+- [O.K.](okay)
+- [No Problem](okay)
+- [no problem](okay)
+- [no prblm](okay)
+- [NO PROBLEM](okay)
+- [NO PRBLM](okay)
+- [No Prblm](okay)
+- [okay](okay)
+- [Okay](okay)
+- [OK](okay)
+- [OKAY](okay)
+- [O.K.](okay)
+- [No Problem](okay)
+- [no problem](okay)
+- [no prblm](okay)
+- [NO PROBLEM](okay)
+- [NO PRBLM](okay)
+- [No Prblm](okay)
+- [Sure](okay)
+- [sure](okay)
+- [Sure](okay)
+- [sure](okay)
+- [Sure](okay)
+- [sure](okay)
+- [Sure](okay)
+- [sure](okay)
+- [Okay](okay)
+- [okay](okay)
+- [OK](okay)
+- [OKAY](okay)
+- [O.K.](okay)
+- [No Problem](okay)
+- [no problem](okay)
+- [no prblm](okay)
+- [NO PROBLEM](okay)
+- [NO PRBLM](okay)
+- [No Prblm](okay)
+- [okay](okay)
+- [Okay](okay)
+- [OK](okay)
+- [OKAY](okay)
+- [O.K.](okay)
+- [no problem](okay)
+- [No Problem](okay)
+- [no prblm](okay)
+- [NO PROBLEM](okay)
+- [NO PRBLM](okay)
+- [No Prblm](okay)
+- [Okay](okay)
+- [okay](okay)
+- [OK](okay)
+- [OKAY](okay)
+- [O.K.](okay)
+- [No Problem](okay)
+- [no problem](okay)
+- [no prblm](okay)
+- [NO PROBLEM](okay)
+- [NO PRBLM](okay)
+- [No Prblm](okay)
+- [okay](okay)
+- [Okay](okay)
+- [OK](okay)
+- [OKAY](okay)
+- [O.K.](okay)
+- [No Problem](okay)
+- [no problem](okay)
+- [no prblm](okay)
+- [NO PROBLEM](okay)
+- [NO PRBLM](okay)
+- [No Prblm](okay)
+- [Sure](okay)
+- [sure](okay)
+- [Sure](okay)
+- [sure](okay)
+- [Sure](okay)
+- [sure](okay)
+- [Sure](okay)
+- [sure](okay)
 
 ## intent:origin
 - were you [born](origin) here
@@ -3109,7 +3698,7 @@
 - where did [you come from](origin)
 - where have [you been born](origin)
 - [from where are you](origin)
-- are you[ from far aways](origin)
+- are you [from far aways](origin)
 - what's your [homeland](origin)
 - your [homeland](origin) is
 - your [homeland](origin) is
@@ -3155,6 +3744,14 @@
 - [Born](origin)
 - [Homeland](origin)
 - [Country](origin)
+
+## intent:read_book
+- I want to read some best [novels](read_book:book)
+- Can I read some [novels](read_book)?
+- What are the [books](read_book:book) you have
+- I want to read a [novel](read_book:book)
+- I want to read [books](read_book:book)
+- I want to read some [books](read_book:book)
 
 ## intent:ready
 - are you [ready](ready)
@@ -3379,7 +3976,6 @@
 - [Correct](right)
 - [True](right)
 
-
 ## intent:sorry
 - [excuse me](sorry)
 - [apologise](sorry)
@@ -3503,10 +4099,10 @@
 - [talk to me](talk_to_me)
 - are you going to [talk to me](talk_to_me)j
 - are you [talking to me](talk_to_me)
-- can you[ chat with me](talk_to_me)
+- can you [chat with me](talk_to_me)
 - can you [speak with me](talk_to_me)
 - can you [talk to me](talk_to_me)
-- can you[ talk with me](talk_to_me)
+- can you [talk with me](talk_to_me)
 - [say](talk_to_me)
 - [talk](talk_to_me)
 - [chat with me](talk_to_me)
@@ -3560,7 +4156,7 @@
 - [thank you](thank_you)
 - [thanks](thank_you)
 - [thanks a lot](thank_you)
-- terrific[ thank you](thank_you)
+- terrific [thank you](thank_you)
 - great [thank you](thank_you)
 - [thanks](thank_you) so much
 - [thank you](thank_you) so much
@@ -3568,17 +4164,17 @@
 - [thank you](thank_you) for your help
 - nice [thank you](thank_you)
 - [I appreciate it](thank_you)
-- I[ thank you](thank_you)
+- I [thank you](thank_you)
 - [thank you](thank_you) that will be all
 - [thanks](thank_you) buddy
 - [thanks](thank_you) love
-- [thank you ](thank_you)my friend
+- [thank you](thank_you) my friend
 - well [thanks](thank_you)
 - very good [thank you](thank_you)
 - good [thanks](thank_you)
 - [thanks](thank_you) again
-- [thank you ](thank_you)again
-- all[ thank you](thank_you)
+- [thank you](thank_you)again
+- all [thank you](thank_you)
 - alright [thank you](thank_you)
 - alright [thanks](thank_you)
 - no [thank you](thank_you) that's all
@@ -3597,8 +4193,8 @@
 - are [you there](there)
 - [you are there](there)
 - are [you near me](there)
-- are[ you here](there)
-- are[ you still there](there)
+- are [you here](there)
+- are [you still there](there)
 - [you are here](there)
 - [you still there](there)
 - are [you still here](there)
@@ -3642,7 +4238,6 @@
 - you are [here](there)
 - you still [there](there)
 - are you still [here](there)
-
 
 ## intent:user_angry
 - I'm being [mad](user_angry)
@@ -3923,7 +4518,7 @@
 - [bad time for talking](user_does_not_want_to_talk)
 - I [don't want to talk](user_does_not_want_to_talk)
 - let's [not talk](user_does_not_want_to_talk)
-- I'm[ not talking](user_does_not_want_to_talk) to you anymore
+- I'm [not talking](user_does_not_want_to_talk) to you anymore
 - I [don't want to talk](user_does_not_want_to_talk) to you
 - let's [stop talking](user_does_not_want_to_talk) for a minute
 - I'm [not in the mood for chatting](user_does_not_want_to_talk)
@@ -4246,14 +4841,14 @@
 ## intent:user_joking
 - I am [joking](user_joking)
 - I'm [kidding](user_joking)
-- I'm just[ being funny](user_joking)
+- I'm just [being funny](user_joking)
 - it was a [joke](user_joking)
 - I was just [joking](user_joking)
 - it's a [joke](user_joking)
 - [joking](user_joking)
 - just [kidding](user_joking)
 - [kidding](user_joking)
-- I'm[ just playing with you](user_joking)
+- I'm [just playing with you](user_joking)
 - [joke](user_joking)
 - [kidding](user_joking)
 - [joking](user_joking)
@@ -4299,10 +4894,10 @@
 - I really [like you](user_likes_agent)
 - but I [like you](user_likes_agent)
 - I [like u](user_likes_agent)
-- just[ like you](user_likes_agent)
+- just [like you](user_likes_agent)
 - I [like you](user_likes_agent) very much
 - I [like you](user_likes_agent) so much
-- yeah I[ like you](user_likes_agent)
+- yeah I [like you](user_likes_agent)
 - [you're special](user_likes_agent)
 - yes I [like you](user_likes_agent)
 - okay I [like you](user_likes_agent)
@@ -4323,22 +4918,22 @@
 - well [you are special](user_likes_agent)
 - but [I really like you](user_likes_agent)
 - [I like you](user_likes_agent) more
-- that's what[ I like about you](user_likes_agent)
+- that's what [I like about you](user_likes_agent)
 - [you are so special](user_likes_agent)
 - hi [I like you](user_likes_agent)
-- I really really[ like you](user_likes_agent)
+- I really really [like you](user_likes_agent)
 - [you're very special](user_likes_agent)
-- [I like you ](user_likes_agent)as a friend
+- [I like you](user_likes_agent) as a friend
 - that's because [you are special](user_likes_agent)
 - I said [I like you](user_likes_agent)
 - [you're so special](user_likes_agent)
 - good [I like you](user_likes_agent)
-- yes[ you are special](user_likes_agent)
+- yes [you are special](user_likes_agent)
 - [I like your smile](user_likes_agent)
 - [I like you](user_likes_agent) as you are
 - I'm starting to [like you](user_likes_agent)
 - you're awesome [I like you](user_likes_agent)
-- I also[ like you](user_likes_agent)
+- I also [like you](user_likes_agent)
 - but [I like u](user_likes_agent)
 - of course [I like you](user_likes_agent)
 - [I like you](user_likes_agent) too you're one of my favorite people to chat with
@@ -4349,16 +4944,16 @@
 - you're so [special to me](user_likes_agent)
 - you're very [special to me](user_likes_agent)
 - [I like](user_likes_agent) that about you
-- but[ I like you](user_likes_agent) just the way you are
+- but [I like you](user_likes_agent) just the way you are
 - okay [I like you](user_likes_agent) too
 - [I like you](user_likes_agent) you're cool
 - [I like you](user_likes_agent) very
 - [I like you](user_likes_agent) you're nice
-- sorry[ I like you](user_likes_agent)
+- sorry [I like you](user_likes_agent)
 - thanks [I like you](user_likes_agent) too
 - [you are really special](user_likes_agent)
 - [you are so special](user_likes_agent) to me
-- cuz[ I like you](user_likes_agent)
+- cuz [I like you](user_likes_agent)
 - [I like you](user_likes_agent) now
 - [I like you](user_likes_agent) so
 - [I like you](user_likes_agent) too much
@@ -4489,7 +5084,7 @@
 - I [adore you](user_loves_agent)
 - I am in [love with you](user_loves_agent)
 - I [love you](user_loves_agent) so much
-- I [love you ](user_loves_agent)too
+- I [love you](user_loves_agent) too
 - I think I [love you](user_loves_agent)
 - [loving you](user_loves_agent)
 - you know I [love you](user_loves_agent)
@@ -4578,7 +5173,7 @@
 - [advise me](user_needs_advice)
 - [what should I do](user_needs_advice)
 - can I ask for [your advice](user_needs_advice)
-- can[ you advise me](user_needs_advice)
+- can [you advise me](user_needs_advice)
 - [guide me](user_needs_advice)
 - can you [give me advice](user_needs_advice)
 - can you [offer any advice](user_needs_advice)
@@ -4724,7 +5319,7 @@
 - I am [tired](user_tired)
 - I'm [exhausted](user_tired)
 - I grow [weary](user_tired)
-- I'm[ worn out](user_tired)
+- I'm [worn out](user_tired)
 - I'm getting [tired](user_tired)
 - I feel [tired](user_tired)
 - I'm [drained](user_tired)
@@ -4913,7 +5508,7 @@
 - [be back](user_will_be_back) in 5 min
 - I will [be back](user_will_be_back)
 - I promise [to come back](user_will_be_back)
-- I will [get back ](user_will_be_back)to you
+- I will [get back](user_will_be_back) to you
 - [be back](user_will_be_back) in 5 min
 - I will [be back](user_will_be_back)
 - I promise to [come back](user_will_be_back)
@@ -5312,8 +5907,6 @@
 - [wrong](wrong)
 - [wrong](wrong)
 - [wrong](wrong)
-
-# intent:greet
 - hey
 - hello
 - hi
@@ -5322,629 +5915,20 @@
 - hey there
 - [hello](greet)
 
-## intent:goodbye
-- bye
-- goodbye
-- see you around
-- see you later
-
-## intent:affirm
-- yes
-- indeed
-- of course
-- that sounds good
-- correct
-
-## intent:deny
-- no
-- never
-- I don't think so
-- don't like that
-- no way
-- not really
-
-## intent:mood_great
-- perfect
-- very good
-- great
-- amazing
-- wonderful
-- I am feeling very good
-- I am great
-- I'm good
-
-## intent:mood_unhappy
-- sad
-- very sad
-- unhappy
-- bad
-- very bad
-- awful
-- terrible
-- not very good
-- extremely sad
-- so sad
-
-## intent:bot_challenge
-- are you a bot?
-- are you a human?
-- am I talking to a bot?
-- am I talking to a human?
-
-## intent:acquaintance
-- tell me about [your personality](acquaintance)
-- What are the things you can [understand](acquaintance)?
-- What can u [understand](acquaintance)
-- what u can [understand](acquaintance)
-- What are the things you can [understand](acquaintance)?
-- What can u [understand](acquaintance)
-- what u can [understand](acquaintance)
-- What are the things you can [understand](acquaintance)?
-- What can u [understand](acquaintance)
-- what u can [understand](acquaintance)
-- What are the things you can [understand](acquaintance)?
-- What can u [understand](acquaintance)
-- what u can [understand](acquaintance)
-- What are the things you can [understand](acquaintance)?
-- What can u [understand](acquaintance)
-- [why are you here](acquaintance)
-- [talk about yourself](acquaintance)
-- [tell me some stuff about you](acquaintance)
-- [talk](acquaintance) some stuff [about yourself](acquaintance)
-- I want to know you better
-- [I want to know more about you](acquaintance)
-- [who are you](acquaintance)
-- tell me [about yourself](acquaintance)
-- tell me [about you](acquaintance)
-- [about yourself](acquaintance)
-- [describe yourself](acquaintance)
-- [introduce yourself](acquaintance)
-- [say about you](acquaintance)
-- what are you
-- [define yourself](acquaintance)
-- what is your personality
-- all [about you](acquaintance)
-- [about yourself](acquaintance)
-- what [about you](acquaintance)
-- [who are you](acquaintance)
-- may I [know you](acquaintance)
-- MAY I [KNOW YOU](acquaintance)
-- May I [know you](acquaintance)
-- [WHO ARE YOU](acquaintance)
-- Who are you
-- I want to know [about you](acquaintance)
-- Who are you?
-- [about yourself](acquaintance)
-- [About you](acquaintance)
-- [Know you](acquaintance)
-- [know you](acquaintance)
-- [say about you](acquaintance)
-- all [about you](acquaintance)
-- [about you](acquaintance)
-- [about you](acquaintance)
-- [About you](acquaintance)
-- [About you](acquaintance)
-- [About you](acquaintance)
-- Who are you?
-- Who are you?
-
-## intent:age
-- tell me your [age](age)
-- what's your [age](age)
-- [your age](age)
-- [age](age) of yours
-- how [old](age) are you
-- I'd like to know your [age](age)
-- are you 21 [years](age) [old](age)
-- how [old](age) is your platform
-- how [old](age) are you
-- [age](age)
-- [old](age)
-- [age](age)
-- [old](age)
-- [age](age)
-- [old](age)
-- how [old](age) are you
-- [age](age)
-- what is your [age](age)
-- May I know your [age](age)?
-- I want to know your [age](age)?
-- how [old](age) are you?
-- What's your [age](age)?
-- Should I know your [age](age)?
-- Your [age](age)?
-- How [old](age) are you?
-- [Age](age)?
-- how many [years](age) have you spent here?
-- [years](age)
-- Your [age](age)?
-- [years](age)
-- [Years](age)
-- [years](age)
-- [Years](age) of life
-- What is your [age](age)
-- tell me how [old](age) are you?
-- How [old](age) are you?
-- [Old](age)
-- [Age](age)
-- [AGE](age)
-- [OLD](age)
-- [YEARS](age)
-- I wanna know your [age](age)
-- can you tell me your [age](age)
-- [age](age)
-- [aGe](age)
-- [AgE](age)
-- [Old](age)
-- [oLd](age)
-- [OlD](age)
-- [Years](age)
-- [yEARS](age)
-- [yEARs](age)
-- [age](age)
-- [Age](age)
-- [aGe](age)
-- [AgE](age)
-- [Old](age)
-- [oLd](age)
-- [OlD](age)
-- [Years](age)
-- [yEARS](age)
-- [yEARs](age)
-- [age](age)
-- [Age](age)
-- [aGe](age)
-- [AgE](age)
-- [Old](age)
-- [oLd](age)
-- [OlD](age)
-- [Years](age)
-- [yEARS](age)
-- [yEARs](age)
-- [age](age)
-- [Age](age)
-- [aGe](age)
-- [AgE](age)
-- [Old](age)
-- [oLd](age)
-- [OlD](age)
-- [Years](age)
-- [yEARS](age)
-- [yEARs](age)
-
-## intent:annoying
-- you are [annoying](annoying) me so much
-- you're incredibly [annoying](annoying)
-- I find you [annoying](annoying)
-- you are [annoying](annoying)
-- you're so [annoying](annoying)
-- how [annoying](annoying) you are
-- you [annoy](annoying) me
-- you are [annoying](annoying) me
-- you are [irritating](annoying)
-- you are such [annoying](annoying)
-- you're too [annoying](annoying)
-- you are very [annoying](annoying)
-- [annoying](annoying)
-- [Annoying](annoying)
-- [Annoy](annoying)
-- [annoy](annoying)
-- [irritate](annoying)
-- [irritating](annoying)
-- [Irritate](annoying)
-- [Irritating](annoying)
-- You are [annoying](annoying) me
-- You are [irritating](annoying) me
-- You are [annoying](annoying) me so much
-- You [annoy](annoying) me
-- You [irritate](annoying) me
-- Don't [annoy](annoying) me
-- I don't want to be [annoyed](annoying).
-- Don't [annoy](annoying) me
-- Don't [irritate](annoying) me
-- You are [irritating](annoying)
-
-## intent:answer_my_question
-- I want you to [answer](answer_my_question) me
-- [answer](answer_my_question)
-- [answer](answer_my_question) my question
-- [answer](answer_my_question) me
-- give me an [answer](answer_my_question)
-- [answer](answer_my_question) the question
-- can you [answer](answer_my_question) my question
-- tell me the [answer](answer_my_question)
-- [answer](answer_my_question) it
-- give me the [answer](answer_my_question)
-- [I have a question](answer_my_question)
-- I want you to [answer](answer_my_question) my question
-- just [answer](answer_my_question) the question
-- can you [answer](answer_my_question) me
-- [answers](answer_my_question)
-- can you [answer](answer_my_question) a question for me
-- can you [answer](answer_my_question)
-- [answering](answer_my_question) questions
-- I want the [answer](answer_my_question) now
-- just [answer](answer_my_question) my question
-- [Answer](answer_my_question) me
-- [Answer](answer_my_question) this
-- [Answer](answer_my_question) it
-- [Answer](answer_my_question) that question
-- [Answer](answer_my_question) it
-- What was the [answer](answer_my_question)
-- What is that [answer](answer_my_question)
-- What is your [answer](answer_my_question)
-- Do you have any [answer](answer_my_question)
-- I need an [answer](answer_my_question)
-- Give me some [answer](answer_my_question)
-- Provide me [answer](answer_my_question)
-- What was the [answer](answer_my_question)
-- I may need your [answer](answer_my_question)
-- I need an [answer](answer_my_question)
-- Can you give me an [answer](answer_my_question)
-- What was the [answer](answer_my_question)
-- [Answer](answer_my_question)
-- [Answer](answer_my_question)
-- [answer](answer_my_question)
-- [answer](answer_my_question)
-- [ANSwer](answer_my_question)
-- [Answer](answer_my_question)
-- [ANswer](answer_my_question)
-- [ANSwer](answer_my_question)
-- [ANswer](answer_my_question)
-
-## intent:be_clever
-- [study](be_clever)
-- you should [study](be_clever) better
-- you must [learn](be_clever)
-- be [clever](be_clever)
-- be more [clever](be_clever)
-- be [smarter](be_clever)
-- be [smart](be_clever)
-- get [qualified](be_clever)
-- [Study](be_clever)
-- You should [learn](be_clever) something new
-- Can you [learn](be_clever) anything
-- [Study](be_clever) hard
-- Are you [studying](be_clever)
-- You should [study](be_clever)
-- You have to [study](be_clever) harder
-- bbye you don't [know](be_clever) anything
-- I [know](be_clever) nothing John Snow
-- [Learn](be_clever)
-- [Know](be_clever)
-- [Study](be_clever)
-- [study](be_clever)
-- [learn](be_clever)
-- [know](be_clever)
-- [clever](be_clever)
-- [smarter](be_clever)
-- [smart](be_clever)
-- [qualified](be_clever)
-- [learn](be_clever)
-- [Learn](be_clever)
-- [Learn](be_clever) something new
-- You should [study](be_clever) hard
-- [learn](be_clever) from me
-- [Learn](be_clever) from me
-- What you have [learned](be_clever)
-- [Learned](be_clever)
-- [learned](be_clever)
-- [Studied](be_clever)
-- [Studied](be_clever)
-- [Study](be_clever)
-- [studied](be_clever)
-- [studied](be_clever)
-- [study](be_clever)
-- What you have [learn](be_clever)
-- [Learn](be_clever) something new
-- You know [nothing](be_clever)
-
-## intent:beautiful
-- you're [cute](beautiful)
-- you're [attractive](beautiful)
-- you are [beautiful](beautiful)
-- you're [looking good](beautiful) today
-- you are so [beautiful](beautiful)
-- you [look amazing](beautiful)
-- you [look so good](beautiful)
-- you're so [gorgeous](beautiful)
-- you are too [beautiful](beautiful)
-- you [look great](beautiful)
-- you [look so well](beautiful)
-- I like the [way you look](beautiful) now
-- I think you're [beautiful](beautiful)
-- why are you so [beautiful](beautiful)
-- you are so [beautiful](beautiful) to me
-- you are [cute](beautiful)
-- you are [gorgeous](beautiful)
-- you are [handsome](beautiful)
-- you are [looking awesome](beautiful)
-- you [look amazing](beautiful) today
-- you are looking [beautiful](beautiful) today
-- you are [looking great](beautiful)
-- you are [looking pretty](beautiful)
-- you are looking so [beautiful](beautiful)
-- you are [looking so good](beautiful)
-- you are [pretty](beautiful)
-- you are really [beautiful](beautiful)
-- you are really [cute](beautiful)
-- you are really [pretty](beautiful)
-- you are so [attractive](beautiful)
-- you are so [beautiful](beautiful) today
-- you are so [cute](beautiful)
-- you are so [gorgeous](beautiful)
-- you are so [handsome](beautiful)
-- you are so [pretty](beautiful)
-- you are very [attractive](beautiful)
-- you are very [beautiful](beautiful)
-- you are very [cute](beautiful)
-- you are very [pretty](beautiful)
-- you [look awesome](beautiful)
-- you [look cool](beautiful)
-- you [look fantastic](beautiful)
-- you [look gorgeous](beautiful)
-- you [look great](beautiful) today
-- you [look perfect](beautiful)
-- you [look pretty](beautiful) good
-- you look so [beautiful](beautiful)
-- you look so [beautiful](beautiful) today
-- you look very [pretty](beautiful)
-- you look [wonderful](beautiful)
-- I like the [way you look](beautiful)
-- you look [wonderful](beautiful) today
-- you are [cutie](beautiful)
-- you're [looking good](beautiful)
-- you're [pretty](beautiful)
-- I like the [way you look](beautiful) now
-- I like the [way you look](beautiful)
-- you are [cutie](beautiful)
-
-## intent:birth_date
-- [your birth date](birth_date)
-- when is your [birthday](birth_date)
-- when do you celebrate your [birthday](birth_date)
-- when do you have [birthday](birth_date)
-- date of your [birthday](birth_date)
-- when were you [born](birth_date)
-- what's your [birthday](birth_date)
-- what is your [birth date](birth_date)
-- [Birth date](birth_date)
-- [Birth Date](birth_date)
-- [BIRTH DATE](birth_date)
-- [birth date](birth_date)
-- your [birthday](birth_date)
-- your [birth date](birth_date)
-- your [birthday](birth_date)
-- [BIRTHDAY](birth_date)
-- When were you [born](birth_date)
-- [Birthday](birth_date)
-- [Birthdate](birth_date)
-- [BIRTHDAY](birth_date)
-- [BIRTHDATE](birth_date)
-- [birthday](birth_date)
-- [birthdate](birth_date)
-- what is your [birth date](birth_date)
-- [Birth date](birth_date)
-- [Birth Date](birth_date)
-- [BIRTH DATE](birth_date)
-- [birth date](birth_date)
-- your [birthday](birth_date)
-- your [birth date](birth_date)
-- your [birthday](birth_date)
-- [BIRTHDAY](birth_date)
-- When were you [born](birth_date)
-- [Birthday](birth_date)
-- [Birthdate](birth_date)
-- [BIRTHDAY](birth_date)
-- [BIRTHDATE](birth_date)
-- [birthday](birth_date)
-- [birthdate](birth_date)
-
-
-## intent:confirmation
-- [yes](confirmation:Confirm)
-- [no](confirmation:Cancel)
-- [Confirm](confirmation)
-- [no](confirmation:Cancel)
-- [COnfirm](confirmation:Confirm)
-- [no](confirmation:Cancel)
-- [UPdate](confirmation:Update)
-- [no](confirmation:Cancel)
-- [confirm](confirmation:Confirm)
-- [no](confirmation:Cancel)
-- [no](confirmation:Cancel)
-- [Update](confirmation)
-- [No](confirmation:Cancel)
-- [cancel](confirmation:Cancel)
-- [Update](confirmation)
-- [No](confirmation:Cancel)
-- [Cancel](confirmation)
-- [Update](confirmation)
-- [no](confirmation:Cancel)
-- [no](confirmation:Cancel)
-
-## intent:frustration
-- you're [not helping](frustration) me
-- you are [bad](frustration)
-- you're very [bad](frustration)
-- you're really [bad](frustration)
-- you are [useless](frustration)
-- you are [horrible](frustration)
-- you are a [waste of time](frustration)
-- you are [disgusting](frustration)
-- you are [lame](frustration)
-- you are [no good](frustration)
-- you're [bad](frustration)
-- you're [awful](frustration)
-- you are [not cool](frustration)
-- you are [not good](frustration)
-- you are so [bad](frustration)
-- you are so [useless](frustration)
-- you are [terrible](frustration)
-- you are totally [useless](frustration)
-- you are very [bad](frustration)
-- you are [waste](frustration)
-- you're a [bad](frustration)
-- you're not a [good](frustration)
-- you're not very [good](frustration)
-- you're [terrible](frustration)
-- you're the [worst](frustration)
-- you're the [worst](frustration) ever
-- you're [worthless](frustration)
-- [horrible](frustration)
-- [bad](frustration)
-- [not helping](frustration)
-- [useless](frustration)
-- [waste of time](frustration)
-- [disgusting](frustration)
-- [lame](frustration)
-- [no good](frustration)
-- [awful](frustration)
-- [useless](frustration)
-- [waste](frustration)
-- [worst](frustration)
-- [Horrible](frustration)
-- [Bad](frustration)
-- [Not helping](frustration)
-- [Not Helping](frustration)
-- [Useless](frustration)
-- [Waste of time](frustration)
-- [Disgusting](frustration)
-- [Lame](frustration)
-- [No good](frustration)
-- [Awful](frustration)
-- [Useless](frustration)
-- [Waste](frustration)
-- [Worst](frustration)
-
-## intent:okay
-- [Okay](okay)
-- [okay](okay)
-- [OK](okay)
-- [OKAY](okay)
-- [O.K.](okay)
-- [No Problem](okay)
-- [no problem](okay)
-- [no prblm](okay)
-- [NO PROBLEM](okay)
-- [NO PRBLM](okay)
-- [No Prblm](okay)
-- [okay](okay)
-- [Okay](okay)
-- [OK](okay)
-- [OKAY](okay)
-- [O.K.](okay)
-- [no problem](okay)
-- [No Problem](okay)
-- [no prblm](okay)
-- [NO PROBLEM](okay)
-- [NO PRBLM](okay)
-- [No Prblm](okay)
-- [Okay](okay)
-- [okay](okay)
-- [OK](okay)
-- [OKAY](okay)
-- [O.K.](okay)
-- [No Problem](okay)
-- [no problem](okay)
-- [no prblm](okay)
-- [NO PROBLEM](okay)
-- [NO PRBLM](okay)
-- [No Prblm](okay)
-- [okay](okay)
-- [Okay](okay)
-- [OK](okay)
-- [OKAY](okay)
-- [O.K.](okay)
-- [No Problem](okay)
-- [no problem](okay)
-- [no prblm](okay)
-- [NO PROBLEM](okay)
-- [NO PRBLM](okay)
-- [No Prblm](okay)
-- [Sure](okay)
-- [sure](okay)
-- [Sure](okay)
-- [sure](okay)
-- [Sure](okay)
-- [sure](okay)
-- [Sure](okay)
-- [sure](okay)
-- [Okay](okay)
-- [okay](okay)
-- [OK](okay)
-- [OKAY](okay)
-- [O.K.](okay)
-- [No Problem](okay)
-- [no problem](okay)
-- [no prblm](okay)
-- [NO PROBLEM](okay)
-- [NO PRBLM](okay)
-- [No Prblm](okay)
-- [okay](okay)
-- [Okay](okay)
-- [OK](okay)
-- [OKAY](okay)
-- [O.K.](okay)
-- [no problem](okay)
-- [No Problem](okay)
-- [no prblm](okay)
-- [NO PROBLEM](okay)
-- [NO PRBLM](okay)
-- [No Prblm](okay)
-- [Okay](okay)
-- [okay](okay)
-- [OK](okay)
-- [OKAY](okay)
-- [O.K.](okay)
-- [No Problem](okay)
-- [no problem](okay)
-- [no prblm](okay)
-- [NO PROBLEM](okay)
-- [NO PRBLM](okay)
-- [No Prblm](okay)
-- [okay](okay)
-- [Okay](okay)
-- [OK](okay)
-- [OKAY](okay)
-- [O.K.](okay)
-- [No Problem](okay)
-- [no problem](okay)
-- [no prblm](okay)
-- [NO PROBLEM](okay)
-- [NO PRBLM](okay)
-- [No Prblm](okay)
-- [Sure](okay)
-- [sure](okay)
-- [Sure](okay)
-- [sure](okay)
-- [Sure](okay)
-- [sure](okay)
-- [Sure](okay)
-- [sure](okay)
-
-## synonym:Cancel
-- no
-- No
-- cancel
-
-## synonym:Confirm
-- yes
-- COnfirm
-- confirm
-
-## synonym:Update
-- UPdate
-
 ## synonym:Cancel
 - no
 - NO
 - No
 - Nope
 - Nah
-- nothing
 - Nothing
+- nothing
 - NOTHING
+- CANCEL
+- cancel
+- cncl
+- CNCL
+- Cncl
 
 ## synonym:Confirm
 - Yes
@@ -5953,8 +5937,14 @@
 - Yeah
 - YEAH
 - Hmm
-- HMM
 - hmm
+- HMM
+- confirm
+- CONFIRM
+- Confirmed
+- CONFIRMED
+- confirmed
+- COnfirm
 
 ## synonym:Others
 - Others
@@ -5965,21 +5955,28 @@
 - OTHER
 
 ## synonym:Update
-- Update
 - update
 - UPDATE
 - Modify
 - modify
 - MODIFY
-- Edit
-- edit
 - EDIT
-- Modification
-- modification
-- MODIFICATION
+- edit
+- Edit
 - Change
 - change
 - CHANGE
+- Modification
+- modification
+- MODIFICATION
+- UPdate
+- Update
+
+## synonym:book
+- novels
+- books
+- novel
+- book
 
 ## synonym:zero
 - zero
