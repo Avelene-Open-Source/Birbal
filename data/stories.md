@@ -366,9 +366,9 @@
 * user_will_be_back
   - utter_user_will_be_back
 
-## fallback story
-* out_of_scope
-  - action_default_fallback
+## story read_book
+* read_book
+  - utter_read_book
 
 ## story 86
 * okay
@@ -377,3 +377,17 @@
 ## story 87
 * confirmation
   - utter_okay
+
+## interactive_story_1
+* read_book{"read_book": "book"}
+    - utter_read_book
+* book_slot_value{"book_slot_value": "Avelene's Choice"}
+    - slot{"book_slot_value": "Avelene's Choice"}
+    - action_read_book
+
+## interactive_story_1
+* read_book{"read_book": "book"}
+    - utter_read_book
+* book_slot_value{"book_slot_value": "Avelene's Choice"}
+    - slot{"book_slot_value": "Avelene's Choice"}
+    - action_read_book

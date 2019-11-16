@@ -2,5 +2,9 @@ language: en
 pipeline: supervised_embeddings
 policies:
 - name: MemoizationPolicy
+  max_history: 5
 - name: KerasPolicy
+  epochs: 300
+  batch: 2
+  max_history: 5
 - name: MappingPolicy

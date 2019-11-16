@@ -1,9 +1,8 @@
-from textblob import TextBlob
 from typing import Any, Text, Dict, List
 from rasa_sdk import Action, Tracker
 from rasa_sdk.events import SlotSet, FollowupAction, AllSlotsReset
 from rasa_sdk.executor import CollectingDispatcher
-
+from utils import *
 
 # class ActionHelloWorld(Action):
 #
@@ -18,13 +17,19 @@ from rasa_sdk.executor import CollectingDispatcher
 #
 #         return []
 
-class ActionCheckLinguality(Action):
+
+class ActionReadBook(Action):
 
     def name(self) -> Text:
-        return 'action_check_user_language'
+        return 'action_read_book'
 
     def run(self, dispatcher, tracker: Tracker, domain: Dict[Text, Any]):
-        user_msg = tracker.latest_message.text
-        language = TextBlob(user_msg)
-        language = language.detect_language()
-        return SlotSet('language', language)
+        book_names = ''
+        book_type = tracker.get_slot('book_slot_value')
+        if book_type not in ["Avelene's Choice", 'Other']:
+            book_names = fetch_books_categorywise(book_type)
+        else:
+            if book_type == "Avelene's Choice":
+                book_names = fetch_books_avelene_choice()
+        print('>>>>>>>>>>>>>', book_names)
+        dispatcher.utter_message('These are the best books I have found:\n{}'.format(book_names))
