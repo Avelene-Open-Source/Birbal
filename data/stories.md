@@ -391,3 +391,51 @@
 * book_slot_value{"book_slot_value": "Avelene's Choice"}
     - slot{"book_slot_value": "Avelene's Choice"}
     - action_read_book
+
+## interactive_story_1
+* read_book{"read_book": "book"}
+    - utter_read_book
+* book_slot_value{"book_slot_value": "Fiction"}
+    - slot{"book_slot_value": "Fiction"}
+    - action_read_book
+
+## interactive_story_1
+* read_book
+    - utter_read_book
+* book_slot_value{"book_slot_value": "Crime"}
+    - slot{"book_slot_value": "Crime"}
+    - action_read_book
+
+## interactive_story_1
+* read_book{"read_book": "book"}
+    - utter_read_book
+* book_slot_value{"book_slot_value": "Others"}
+    - slot{"book_slot_value": "Others"}
+    - action_read_book
+    - followup{"name": "action_listen"}
+* boring
+    - action_search_book
+
+## interactive_story_1
+* read_book{"read_book": "book"}
+    - utter_read_book
+* book_slot_value{"book_slot_value": "Others"}
+    - slot{"book_slot_value": "Others"}
+    - action_read_book
+    - followup{"name": "action_listen"}
+* greet
+    - action_search_book
+    - slot{"search_book_name": "Sherlock Holmes"}
+    - followup{"name": "action_listen"}
+
+## interactive_story_1
+* read_book{"read_book": "book"}
+    - utter_read_book
+* book_slot_value{"book_slot_value": "Others"}
+    - slot{"book_slot_value": "Others"}
+    - action_read_book
+    - followup{"name": "action_listen"}
+* bad
+    - action_search_book
+    - slot{"search_book_name": "Rich Dad Poor Dad"}
+    - followup{"name": "action_listen"}

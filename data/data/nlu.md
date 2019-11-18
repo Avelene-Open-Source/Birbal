@@ -524,6 +524,7 @@
 - it is too [bad](bad)
 - [bad](bad) really [bad](bad)
 - [abysmal](bad)
+- Rich Dad Poor Dad
 
 ## intent:be_clever
 - [study](be_clever)
@@ -824,7 +825,40 @@
 - [Mystery](book_slot_value)
 - [Memoir](book_slot_value)
 - [Biography](book_slot_value)
+- [Others](book_slot_value)
 - [Avelene's Choice](book_slot_value)
+- [Others](book_slot_value)
+- [Avelene's Choice](book_slot_value)
+- [Fiction](book_slot_value)
+- [Non-Fiction](book_slot_value)
+- [Crime](book_slot_value)
+- [Fantasy](book_slot_value)
+- [Mystery](book_slot_value)
+- [Memoir](book_slot_value)
+- [Biography](book_slot_value)
+- [Others](book_slot_value)
+- [Choic](book_slot_value:Avelene's Choice)
+- [Fictio](book_slot_value:Fiction)
+- [Non-Fictio](book_slot_value:Non-Fiction)
+- [Crime](book_slot_value)
+- [Fantas](book_slot_value:Fantasy)
+- [Myster](book_slot_value:Mystery)
+- [Memoi](book_slot_value:Memoir)
+- [Biograph](book_slot_value:Biography)
+- [Others](book_slot_value)
+- [Choic](book_slot_value:Avelene's Choice)
+- [Fictio](book_slot_value:Fiction)
+- [Non-Fictio](book_slot_value:Non-Fiction)
+- [Crime](book_slot_value)
+- [Fantas](book_slot_value:Fantasy)
+- [Myster](book_slot_value:Mystery)
+- [Memoi](book_slot_value:Memoir)
+- [Biograph](book_slot_value:Biography)
+- [Crime](book_slot_value)
+- [Others](book_slot_value)
+- [Others](book_slot_value)
+- [Others](book_slot_value)
+- [Others](book_slot_value)
 
 ## intent:boring
 - you are [boring](boring)
@@ -886,6 +920,7 @@
 - [BORE](boring)
 - [Bore](boring)
 - [bore](boring)
+- The Mocking Bird
 
 ## intent:boss
 - who is your [boss](boss)
@@ -2556,6 +2591,7 @@
 - [Hi](greet)
 - [Hi](greet)
 - [Hi](greet)
+- Sherlock Holmes
 
 ## intent:greetings_how_are_you
 - [how is your morning so far](greetings_how_are_you)
@@ -3747,11 +3783,18 @@
 
 ## intent:read_book
 - I want to read some best [novels](read_book:book)
-- Can I read some [novels](read_book)?
+- Can I read some [novels](read_book:book)?
 - What are the [books](read_book:book) you have
 - I want to read a [novel](read_book:book)
 - I want to read [books](read_book:book)
 - I want to read some [books](read_book:book)
+- What are the [book](read_book) you have
+- I want to read [book](read_book)
+- I want to read some [book](read_book)
+- I want to read s=book
+- I want to read some [book](read_book)
+- I want to read some [books](read_book:book)
+- I want to read soe [books](read_book:book)
 
 ## intent:ready
 - are you [ready](ready)
@@ -5915,6 +5958,12 @@
 - hey there
 - [hello](greet)
 
+## synonym:Avelene's Choice
+- Choic
+
+## synonym:Biography
+- Biograph
+
 ## synonym:Cancel
 - no
 - NO
@@ -5945,6 +5994,21 @@
 - CONFIRMED
 - confirmed
 - COnfirm
+
+## synonym:Fantasy
+- Fantas
+
+## synonym:Fiction
+- Fictio
+
+## synonym:Memoir
+- Memoi
+
+## synonym:Mystery
+- Myster
+
+## synonym:Non-Fiction
+- Non-Fictio
 
 ## synonym:Others
 - Others
