@@ -1,5 +1,6 @@
 actions:
 - action_read_book
+- action_search_book
 - utter_acquaintance
 - utter_age
 - utter_annoying
@@ -143,6 +144,7 @@ entities:
 - real
 - residence
 - right
+- search_book_name
 - sorry
 - sure
 - talk_to_me
@@ -181,10 +183,13 @@ entities:
 - wow
 - wrong
 intents:
-- read_book
 - book_slot_value
-- goodbye
+- read_book
+- bad
 - greet
+- boring
+- good
+- goodbye
 - affirm
 - deny
 - mood_great
@@ -199,7 +204,6 @@ intents:
 - be_clever
 - beautiful
 - birth_date
-- boring
 - boss
 - busy
 - can_you_help
@@ -223,8 +227,6 @@ intents:
 - sure
 - talk_to_me
 - there
-- bad
-- good
 - no_problem
 - thank_you
 - welcome
@@ -283,6 +285,8 @@ slots:
     - confirm
     - update
     - cancel
+  search_book_name:
+    type: text
 templates:
   utter_acquaintance:
   - text: I am a bot developed by Avelene Open Source Organisation. I can help you
@@ -404,6 +408,7 @@ templates:
     - title: Memoir
     - title: Biography
     - title: Avelene's Choice
+    - title: Others
     text: Which type of book/novel do you wanna read?
   utter_ready:
   - text: I am always ready for you. 😃😃

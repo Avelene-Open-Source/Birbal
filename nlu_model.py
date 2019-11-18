@@ -13,7 +13,7 @@ def train_nlu(data, configs, model_dir):
     trainer = Trainer(config.load(configs))
     trainer.train(training_data)
     model_directory = trainer.persist(model_dir, fixed_model_name="nlu")
-    logger.info(f"Model trained. Stored in '{model_path}'.")
+    logger.info(f"Model trained. Stored in '{model_directory}'.")
     return model_directory
 
 

@@ -6,6 +6,7 @@ from rasa.core.channels.console import CmdlineInput
 from rasa.core.agent import Agent
 from rasa.core.interpreter import RasaNLUInterpreter
 from rasa.core.tracker_store import MongoTrackerStore
+from rasa.core.training import interactive
 from rasa.core.utils import EndpointConfig
 
 logger = logging.getLogger(__name__)
@@ -14,14 +15,11 @@ logger = logging.getLogger(__name__)
 def run(serve_forever=True):
     interpreter = RasaNLUInterpreter("models/nlu")
     agent = Agent.load("models/dialogue", interpreter=interpreter)
-    action_endpoint = EndpointConfig(url="http://localhost:5056/webhook")
+    action_endpoint = EndpointConfig(url="http://localhost:5055/webhook")
 
     if serve_forever:
         agent.handle_channels([CmdlineInput()])
     return agent
-
-
-from rasa.core.training import interactive
 
 
 def interactive_learning(serve_forever=True):
@@ -51,6 +49,6 @@ if __name__ == "__main__":
         logging.DEBUG = True
     else:
         logging.DEBUG = False
-    # run()
+    run()
     # agent = interactive_learning()
     # interactive.run_interactive_learning('data/stories.md')

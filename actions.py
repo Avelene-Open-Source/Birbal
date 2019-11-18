@@ -24,12 +24,26 @@ class ActionReadBook(Action):
         return 'action_read_book'
 
     def run(self, dispatcher, tracker: Tracker, domain: Dict[Text, Any]):
-        book_names = ''
-        book_type = tracker.get_slot('book_slot_value')
-        if book_type not in ["Avelene's Choice", 'Other']:
-            book_names = fetch_books_categorywise(book_type)
-        else:
-            if book_type == "Avelene's Choice":
-                book_names = fetch_books_avelene_choice()
-        print('>>>>>>>>>>>>>', book_names)
-        dispatcher.utter_message('These are the best books I have found:\n{}'.format(book_names))
+        book_genre_type = tracker.get_slot('book_slot_value')
+        if book_genre_type != 'Others':
+            if book_genre_type == "Avelene's Choice":
+                book_details = fetch_books_avelene_choice()
+                dispatcher.utter_message('These are the best books I have found:\n{}'.format(book_details))
+            else:
+                book_details = fetch_books_categorywise(book_genre_type)
+                dispatcher.utter_message('These are the best books I have found:\n{}'.format(book_details))
+            return [FollowupAction('action_listen')]
+        elif book_genre_type == "Others":
+            return [FollowupAction('action_listen')]
+
+
+class ActionSearchBook(Action):
+
+    def name(self) -> Text:
+        return 'action_search_book'
+
+    def run(self, dispatcher, tracker: Tracker, domain: Dict[Text, Any]):
+        book_name = tracker.latest_message['text']
+        book_details = fetch_books_user_search(book_name)
+        dispatcher.utter_message('These are the details of the book you are looking for:\n{}'.format(book_details))
+        return [SlotSet('search_book_name', book_name), FollowupAction('action_listen')]
